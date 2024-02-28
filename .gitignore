@@ -1,0 +1,5 @@
+# .gitignore
+
+fastAPI-env/
+
+__pycache__/
